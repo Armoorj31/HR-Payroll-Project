@@ -1,0 +1,509 @@
+employee_id,first_name,last_name,department,job_title,pay_grade,start_date,termination_date,salary,job_type,work_email
+EMP1259,DEBORAH,Harris,Engineering,Project Engineer,PG6,2021-05-08,,93091,FULL-TIME,
+EMP1127,DONALD,Reed,Customer Service,Call Center Agent,PG2,02-20-18,,38288,Full-time ,donald.reed@atech.org
+EMP1495,Joshua,Lewis,Marketing,Graphic Designer,PG4,2018-11-02,11/25/2024,50399,PT,joshua.lewis@atech.org
+EMP1068, Brian ,Parker,Finance,Finance Manager,PG7,11-30-25,,"$97,223",FULL-TIME,brian.parker@atech.org
+EMP1120,Stephen,Adams,Marketing,SEO Specialist,PG4,"January 22, 2023",,"$63,278",Contractor,stephen.adams@atech.org
+EMP1251,Matthew,Evans,Engineering,Project Engineer,PG6,28-Sep-2023,,80935,Full-time ,matthew.evans@atech.org
+EMP1033,Scott,Thomas,Executive,Chief Executive Officer,PG6,2023/04/24,,"$76,377",Contractor,scott.thomas@atech.org
+EMP1354,Robert,Jones,Customer Service,Customer Service Rep,PG3,2023-06-10,,42285,Full-time ,robert.jones@atech.org
+EMP1205,Susan,garcia,Information Technology,DevOps Engineer,PG6,2024/03/06,,72602,full-time,susan.garcia@atech.org
+EMP1223,John,PETERSON,Marketing,Marketing Director,PG9,"May 02, 2018",,135939.00,contract ,
+EMP1096,Charles,Gonzalez,Human Resources,HR Coordinator,PG3,"May 18, 2024",02-Apr-2026,48293,Part Time,charles.gonzalez@atech.org
+EMP1317,gregory,MORGAN,Information Technology,Network Engineer,pg6,"March 05, 2018",2017-09-18,70360.00,Full-time ,gregory.morgan@atech.org
+EMP1149, Kathleen ,MARTINEZ,Information Technology,Network Engineer,PG6,03-18-15,2019-02-22,85021,Full Time,kathleen.martinez@atech.org
+EMP1332,Debra,Cooper,Information Technology,DevOps Engineer,PG6,2015/06/25,,79360,CONTRACT,debra.cooper@atech.org
+EMP1082,JOSEPH,Torres,Sales,Sales Manager,pg7,06/01/2024,,78992,full-time,joseph.torres@atech.org
+EMP1484,James,HALL,Information Technology,QA Engineer,pg6,30-Aug-2024,,79617,Full Time,james.hall@atech.org
+EMP1443,Christine, Perez ,Information Technology,Software Engineer,PG6,2022-05-03,,81621,PART-TIME,christine.perez@atech.org
+EMP1079,Jeffrey,Reyes,Marketing,SEO Specialist,PG4,2018-08-20,,"$64,479",FT,jeffrey.reyes@atech.org
+EMP1027,Laura, Lee ,Legal,Legal Assistant,PG2,03-21-21,,37246,PT,laura.lee@atech.org
+EMP1446,LAURA,Carter,Engineering,Civil Engineer,PG6,2015/04/19,2022-04-16,84496,Part Time,laura.carter@atech.org
+EMP1148,James,Diaz,Sales,Account Executive,,02/22/2021,08-Apr-2025,"$49,891",Part Time,james.diaz@atech.org
+EMP1222,Susan,Thompson,Executive,Chief Executive Officer,PG6,02/20/2018,,74195,Part-Time,susan.thompson@atech.org
+EMP1346,THOMAS,clark,Information Technology,IT Support Specialist,PG4,2017-07-04,01-07-23,61920,Full-time ,thomas.clark@atech.org
+EMP1244,Kenneth,Morales,Marketing,Content Strategist,PG3,26-Jan-2016,,58420,FT,kenneth.morales@atech.org
+EMP1210,Laura,Wilson,Executive,VP of Marketing,PG9,"September 21, 2023",,134700,part-time,laura.wilson@atech.org
+EMP1174,MARK,Lee,Legal,Paralegal,PG4,2021/08/12,2024-08-15,,full-time,mark.lee@atech.org
+EMP1170,patrick,jackson,Finance,Controller,PG3,05/19/2023,,51956,FT,patrick.jackson@atech.org
+EMP1112,Angela,Edwards,Human Resources,Recruiter,PG3,2025-03-31,,44323,PT,angela.edwards@atech.org
+EMP1411,PAUL,young,Operations,Warehouse Associate,PG2,2022-05-14,,"$33,450",temporary,paul.young@atech.org
+EMP1138,Samantha,Parker,Customer Service,Customer Service Rep,PG3,05-Jun-2019,,48081,Full Time,"samantha.parker@atech,org"
+EMP1279,Jennifer,BAILEY,Customer Service,Customer Service Rep,PG3,2023/12/05,,39110,Full Time,jennifer.bailey@atech.org
+EMP1330,Rachel,Clark,Sales,Sales Manager,PG7,04-18-26,,86557,FT,rachel.clark@atech.org
+EMP1130,scott,Adams,Customer Service,Customer Service Rep,PG3,11-24-16,,40781,Temp,scott.adams@atech.org
+EMP1249,Anna,Wright,Engineering,Project Engineer,PG6,21-Dec-2018,,72427,PART-TIME,anna.wright@atech.org
+EMP1005,Dorothy,Davis,Sales,Sales Representative,PG3,2021/01/02,,51189,Full-time ,dorothy.davis@atech.org
+EMP1264,JAMES,Hill,Sales,Account Executive,pg3,10-Mar-2021,,50318.00,FULL-TIME,james.hill@atech.org
+EMP1349,Jason,anderson,Operations,Operations Analyst,PG-5,01-18-18,,"$70,266",Full-time ,jason.anderson@atech.org
+EMP1176,james,Diaz,Finance,Finance Manager,PG7,10-09-25,02/21/2026,96693,Full-Time,james.diaz1@atech.org
+EMP1239,Andrew,Lopez,Customer Service,Call Center Agent,PG2,02-Jan-2019,,,contract ,andrew.lopez@atech.org
+EMP1311,Nicole,Taylor,Customer Service,Customer Support Lead,PG5,2020-09-06,,59816,full-time,nicole.taylor@atech.org
+EMP1369,James,Phillips,Sales,Sales Manager,PG7,2017/06/26,2023/05/11,85280,CONTRACT,james.phillips@atech.org
+EMP1099,Betty,Cox,Engineering,Project Engineer,pg6,"November 15, 2015",09-09-19,84386.00,FULL-TIME,betty.cox@atech.org
+EMP1481,Gregory,Rogers,Information Technology,DevOps Engineer,PG6,"October 18, 2017",,84312,Temporary,gregory.rogers@atech.org
+EMP1104,Ronald,Hall,Information Technology,IT Manager,PG7,10/09/2016,,76378,full-time,ronald.hall@atech.org
+EMP1436,Jonathan,Turner,Legal,Paralegal,PG4,08/19/2019,07-Jan-2022,51373.00,part-time,jonathan.turner@atech.org
+EMP1059,Linda,Gomez,Marketing,Marketing Manager,PG7,"March 14, 2025",,"$79,002",Full-Time,linda.gomez@atech.org
+EMP1269, Brandon ,Cruz,Executive,Chief Financial Officer,pg6,2020-03-27,07/05/2024,79433,Contract,brandon.cruz@atech.org
+EMP1457,Susan,Perez,Finance,Finance Manager,PG7,2021-03-17,"August 15, 2021","$77,808",Full-Time,susan.perez@atech.org
+EMP1159,MELISSA,Ramos,Legal,Legal Counsel,,03/13/2024,,111064,Contract,melissa.ramos@atech.org
+EMP1153,Robert,Ramos,Finance,Accountant,PG3,10-May-2016,,48591,Full-time ,robert.ramos@atech.org
+EMP1306,Mary,Anderson,Executive,Chief Financial Officer,PG6,01/06/2025,,84391,CONTRACT,mary.anderson@atech.org
+EMP1430,SANDRA,KING,Finance,Finance Manager,PG7,2026/04/03,,"$77,700",CONTRACT,sandra.king@atech.org
+EMP1169,anna,Flores,information technology,DevOps Engineer,PG-6,"March 20, 2020",2019-11-09,69243,FULL-TIME,anna.flores@atech.org
+EMP1158,Michael,THOMPSON,Sales,Sales Director,PG9,07-18-16,,108009,contract ,michael.thompson@atech.org
+EMP1131,Emily,Turner,Marketing,SEO Specialist,PG4,13-Jul-2020,,"$50,520",full-time,emily.turner@atech.org
+EMP1322,Amy,Thompson,Information Technology,Software Engineer,PG6,05/24/2021,17-Apr-2024,"$69,770",Contractor,amy.thompson@atech.org
+EMP1070,Patrick, Turner ,Marketing,Marketing Coordinator,pg3,14-Apr-2022,,"$48,636",PT,patrick.turner@atech.org
+EMP1202, Michael ,Johnson,Information Technology,DevOps Engineer,PG6,09-05-16,,"$84,247",FT,michael.johnson@atech.org
+EMP1452,melissa,Roberts,Legal,Compliance Officer,PG6,2016/08/06,,86005,temporary,melissa.roberts1@atech.org
+EMP1144,Brian,Ward,Customer Service,Customer Support Lead,PG-5,2019/08/20,,68095,FULL-TIME,brian.ward@atech.org
+EMP1434,Larry,Cox,Executive,VP of Marketing,PG9,2019-07-31,,"$145,617",full-time,larry.cox@atech.org
+EMP1232,Anthony, Green ,Customer Service,Call Center Agent,,09-08-20,,33746,FT,anthony.green@atech.org
+EMP1030,Larry,Brown,Finance,Payroll Specialist,PG-4,2025/05/10,,62044,FT,larry.brown@atech.org
+EMP1135,Jonathan,Kim,Finance,Accountant,PG3,"December 18, 2022",,48134,temporary,jonathan.kim@atech.org
+EMP1263,Catherine,Parker,Operations,Operations Director,PG9,19-Oct-2019,,120775,PT,catherine.parker@atech.org
+EMP1345,Joseph,Taylor,Human Resources,Recruiter,PG3,18-Feb-2023,,,FT,joseph.taylor@atech.org
+EMP1383,David,Cook,Human Resources,HR Generalist,PG4,01/10/2019,,60132,full-time,david.cook@atech.org
+EMP1063,Richard,Anderson,Engineering,Civil Engineer,PG6,2020-02-15,,"$82,092",Full-time ,richard.anderson@atech.org
+EMP1150,Heather,Moore,Information Technology,IT Support Specialist,PG4,2018/09/06,,48277,Part Time,heather.moore@atech.org
+EMP1125,Katherine,Jones,Finance,Accounts Payable Clerk,PG2,2025/09/04,2025/11/11,35106,full-time,katherine.jones@atech.org
+EMP1427,Ashley,Miller,Marketing,Marketing Manager,PG7,2025/12/19,,,Contract,ashley.miller1@atech.org
+EMP1379,Kevin,GARCIA,Executive,VP of Sales,PG9,2017-11-25,2018/07/12,141293,Contract,kevin.garcia@atech.org
+EMP1221,michelle,Howard,Information Technology,Data Analyst,PG5,"October 13, 2018",08/16/2021,65365,PT,michelle.howard@atech.org
+EMP1397,Patricia,Cooper,Executive,Chief Operating Officer,PG6,"October 25, 2021",,72908,Full-Time,patricia.cooper@atech.org
+EMP1323,Frank, Cruz ,Executive,VP of Marketing,PG9,"April 22, 2022",16-Aug-2023,141362,full-time,frank.cruz@atech.org
+EMP1051,Donna,Rivera,Operations,Logistics Coordinator,PG3,03-29-24,,44385,Full-Time,donna.rivera@atech.org
+EMP1107,Lisa,Nguyen,Human Resources,HR Generalist,PG4,05/29/2017,,52888,Full-time ,lisa.nguyen@atech.org
+EMP1224, Debra ,Perez,Engineering,Civil Engineer,,04-12-18,,82621,Full Time,debra.perez@atech.org
+EMP1178,Stephen,Davis,Customer Service,Client Success Manager,PG7,2025-08-25,,92547,full-time,stephen.davis@atech.org
+EMP1097,RYAN,walker,Sales,Sales Director,pg9,2021-04-23,,128127,part-time,ryan.walker@atech.org
+EMP1106,dennis,Torres,Operations,Warehouse Associate,pg2,01-02-17,,40582,Part-Time,dennis.torres@atech.org
+EMP1278,Ryan,Young,Customer Service,Client Success Manager,PG7,2023/07/14,,76370,Temporary,ryan.young@atech.com
+EMP1260,Pamela,Roberts,Legal,Compliance Officer,PG6,2016-08-03,2019/01/04,66608,Contract,pamela.roberts1@atech.org
+EMP1196,Angela,richardson,Finance,Finance Manager,PG7,03/01/2026,,78735,CONTRACT,angela.richardson@atech.org
+EMP1420,Eric,Nelson,Executive,Chief Financial Officer,PG-6,2016-07-07,,68539,Temp,eric.nelson@atech.org
+EMP1237,Stephanie,Kelly,Human Resources,HR Coordinator,PG3,"May 22, 2017",,44867,Full-Time,stephanie.kelly@atech.org
+EMP1086,carol,White,Legal,Legal Assistant,PG2,2026/08/24,,39018,FULL-TIME,carol.white@atech.org
+EMP1499,Elizabeth,DIAZ,Sales,Business Development Rep,PG3,04/01/2017,,46569,Part-Time,elizabeth.diaz@atech.org
+EMP1226,Eric,phillips,Operations,Warehouse Associate,PG2,02-24-15,,37976,Full-Time,eric.phillips@atech.org
+EMP1299,Dennis,Jackson,information technology,DevOps Engineer,PG6,"January 11, 2025",,85408,Full-time ,dennis.jackson@atech.org
+EMP1388,Joseph,Murphy,Executive,Chief Operating Officer,PG6,2015/06/20,09-14-17,79690,Full Time,joseph.murphy@atech.org
+EMP1250,George,EVANS,marketing,Marketing Manager,pg7,21-Jan-2018,,84947,full-time,george.evans@atech.org
+EMP1421,Thomas,Flores,Executive,VP of Sales,PG9,01/09/2023,,153628,CONTRACT,thomas.flores@atech.org
+EMP1382,Kathleen,Hill,Information Technology,Systems Administrator,PG3,"August 04, 2024",,49843,Full-Time,kathleen.hill@atech.org
+EMP1473,Katherine,LEE,Finance,Controller,PG3,2015/10/14,"April 06, 2017",48413,Temp,katherine.lee@atech.org
+EMP1426, Sharon ,RODRIGUEZ,Finance,Financial Analyst,PG5,20-Apr-2019,,59285,full-time,sharon.rodriguez@atech.org
+EMP1447, Scott ,Cruz,Operations,Operations Manager,PG7,11/21/2015,,84113,PT,scott.cruz@atech.org
+EMP1165,FRANK,Gomez,Legal,Paralegal,PG4,2018-11-16,,51270,full-time,frank.gomez@atech.org
+EMP1377,Frank,Jackson,Finance,Finance Manager,PG7,05-16-21,2023/05/05,78066,Full-time ,frank.jackson@atech.org
+EMP1163,carolyn,Young,Operations,Logistics Coordinator,pg3,09/14/2021,2023-09-26,"$50,412",CONTRACT,carolyn.young@atech.org
+EMP1090,Carolyn,Cruz,Finance,Payroll Specialist,PG4,06/15/2016,,58472,Full Time,carolyn.cruz@atech.org
+EMP1413,Mark,WILLIAMS,marketing,Graphic Designer,PG4,2019/04/18,2026/04/03,61096,Part Time,mark.williams@atech.org
+EMP1313,Samuel,Wilson,Legal,Compliance Officer,pg6,"July 30, 2016",,68384.00,full-time,samuel.wilson@atech.org
+EMP1281,Joseph,Edwards,Operations,Operations Analyst,PG5,2026/06/23,,72164,Full-Time,joseph.edwards@atech.org
+EMP1008,Nicholas,Cox,Sales,Account Executive,PG3,01-05-15,,52252,FT,"nicholas.cox@atech,org"
+EMP1304,Ashley,Stewart,Finance,Payroll Specialist,PG4,2022/09/15,"May 12, 2022",58239,TEMPORARY,
+EMP1467,Christopher,Williams,Engineering,Project Engineer,PG6,"August 14, 2025",,79056,FULL-TIME,christopher.williams@atech.org
+EMP1438,Rebecca,Young,Information Technology,QA Engineer,PG6,2019/02/11,,83002,Part-Time,rebecca.young@atech.org
+EMP1435,Alexander,COX,Legal,Paralegal,PG4,08/28/2023,,48058,Part-Time,alexander.cox@atech.org
+EMP1177,Lisa,MITCHELL,Customer Service,Call Center Agent,PG2,11/26/2020,,35056.00,Contract,lisa.mitchell@atech.org
+EMP1415,Emily,Harris,Human Resources,Benefits Specialist,PG4,"March 07, 2025",,56287,Temporary,emily.harris1@atech.org
+EMP1287,Anthony,Ward,Customer Service,Client Success Manager,PG7,2019-10-06,2022/02/06,76490,contract ,anthony.ward@atech.org
+EMP1469,Edward,Perez,Human Resources,HR Generalist,PG4,2019/01/11,,53825,FT,
+EMP1248,Catherine,hernandez,Finance,Finance Manager,,09-29-23,,95253.00,Full-time ,catherine.hernandez@atech.com
+EMP1132,Sharon,Kim,Information Technology,IT Manager,PG7,07-04-19,,85507,FT,sharon.kim@atech.org
+EMP1290,Joseph,flores,Operations,Operations Analyst,PG5,2026-02-23,,63896,contract ,joseph.flores@atech.org
+EMP1328,Benjamin,Reyes,Human Resources,Benefits Specialist,PG4,2022/06/20,,50316,PART-TIME,benjamin.reyes@atech.org
+EMP1327,JASON,Ramirez,Information Technology,Data Analyst,PG5,13-Jan-2017,14-Aug-2024,64692,FULL-TIME,jason.ramirez@atech.org
+EMP1374,nicole,kim,Human Resources,HR Generalist,PG4,2023/07/18,,"$52,155",FULL-TIME,nicole.kim@atech.org
+EMP1137,Richard,Cruz,Legal,Compliance Officer,PG6,07/31/2017,2021/07/05,67201,CONTRACT,richard.cruz@atech.org
+EMP1432,Sandra,Robinson,Sales,Business Development Rep,PG3,07/06/2025,,39829,contract ,sandra.robinson@atech.org
+EMP1458,Timothy,Cox,Engineering,Electrical Engineer,PG6,23-Jul-2022,,83922,PT,timothy.cox1@atech.org
+EMP1307,Amy,Evans,Customer Service,Customer Support Lead,PG5,2018/10/02,2022-09-14,"$68,824",Part-Time,amy.evans@atech.org
+EMP1358,Gregory,Clark,Operations,Logistics Coordinator,PG3,08-13-22,20-Jan-2026,50237,Full-time ,gregory.clark1@atech.org
+EMP1291,KATHLEEN,Cook,Information Technology,Network Engineer,PG6,"December 17, 2021",,79144,CONTRACT,kathleen.cook@atech.org
+EMP1418,HEATHER,Kim,Executive,VP of Sales,PG9,2017-10-19,2018-07-24,126269,Contract,"heather.kim@atech,org"
+EMP1110,Nicholas,Flores,Finance,Payroll Specialist,PG4,2019/12/15,07-14-21,57667,PART-TIME,nicholas.flores1@atech.org
+EMP1389,carolyn,Roberts,Customer Service,Call Center Agent,PG2,08/20/2018,,39738.00,part-time,carolyn.roberts@atech.org
+EMP1103,Ashley,Scott,Engineering,Electrical Engineer,PG6,09-04-21,,75368,part-time,ashley.scott@atech.org
+EMP1344,Jason,Baker,Information Technology,IT Support Specialist,,2019-12-17,,55139,Full-time ,jason.baker@atech.org
+EMP1029,Rebecca,Morgan,Engineering,Engineering Manager,PG6,"February 13, 2021",,75226,Full-time ,rebecca.morgan@atech.org
+EMP1394,Eric,CAMPBELL,Human Resources,Recruiter,PG3,2026/08/09,,44770,Full Time,eric.campbell@atech.org
+EMP1350,Mark,Peterson,Customer Service,Call Center Agent,PG2,07/24/2016,,,TEMPORARY,mark.peterson@atech.org
+EMP1032,Nancy,COX,Executive,Chief Executive Officer,PG6,2017/06/04,,70366,full-time,nancy.cox@atech.org
+EMP1036,Donna,Lewis,Customer Service,Customer Support Lead,PG5,2023/04/12,,63016,Full-time ,donna.lewis@atech.org
+EMP1114,Sarah,Hall,Finance,Financial Analyst,PG5,11/09/2017,,72604,Full-Time,sarah.hall@atech.org
+EMP1407,DENNIS,KIM,Executive,Chief Financial Officer,PG6,"April 25, 2026",,81153,full-time,dennis.kim1@atech.org
+EMP1122,JACK,Morales,Legal,Legal Counsel,,2025-12-14,,118080,Temporary,
+EMP1067,Ryan,Baker,Information Technology,Data Analyst,PG5,2016-11-26,,65211,Part-Time,ryan.baker@atech.org
+EMP1381,Edward,Lopez,Customer Service,Call Center Agent,PG2,2024-07-21,,42057,Full Time,edward.lopez@atech.org
+EMP1046,Karen,Murphy,Marketing,Marketing Director,PG9,27-Oct-2025,,122919,full-time,karen.murphy@atech.org
+EMP1019,Amanda,Clark,Sales,Sales Representative,PG3,02-12-24,,43794,Temp,
+EMP1445,Nancy,Allen,finance,Controller,PG3,"September 19, 2023",,,PT,nancy.allen@atech.org
+EMP1091,Donald,Murphy,Human Resources,HR Coordinator,PG3,06/25/2025,,"$51,077",Full-Time,donald.murphy@atech.org
+EMP1321,Benjamin, Hill ,Operations,Logistics Coordinator,PG3,04-22-19,2025-05-01,42074,CONTRACT,"benjamin.hill@atech,org"
+EMP1319,DANIEL,Nelson,Finance,Accountant,,2024-04-23,,"$48,974",FULL-TIME,daniel.nelson@atech.org
+EMP1018,James,Nelson,Information Technology,IT Manager,PG7,2024-08-04,,80294,Temp,james.nelson@atech.org
+EMP1357,ROBERT,Morgan,Operations,Operations Analyst,PG5,2024/06/22,,70103,Full-time ,robert.morgan@atech.org
+EMP1331,helen,mitchell,finance,Financial Analyst,PG-5,10-06-23,,,Temporary,helen.mitchell@atech.org
+EMP1461,Donna,Cox,Sales,Account Executive,PG3,04/26/2026,,57041,Full-time ,donna.cox1@atech.org
+EMP1225,Jacob,Collins,Human Resources,HR Generalist,PG4,02/18/2021,,58625,Full Time,jacob.collins@atech.org
+EMP1294,Deborah,Miller,Finance,Accounts Payable Clerk,,12-31-24,,35210,Contract,deborah.miller@atech.org
+EMP1318,William,Wilson,Finance,Accounts Payable Clerk,PG2,"December 12, 2019",04-20-22,36874,Contractor,william.wilson@atech.org
+EMP1162,Laura,Reyes,Operations,Logistics Coordinator,PG3,2019-08-28,,43978.00,Contract,
+EMP1460,Robert,Campbell,Human Resources,Benefits Specialist,PG4,03-28-20,,58666,Full-Time,robert.campbell@atech.org
+EMP1141,Gary,Torres,Information Technology,Systems Administrator,PG3,03-15-16,,50308,Full Time,gary.torres@atech.org
+EMP1401,Joseph,THOMAS,Operations,Operations Director,pg9,06-09-18,08-Dec-2021,123978.00,Full Time,joseph.thomas@atech.org
+EMP1187,Joshua, Wilson ,Legal,Paralegal,PG4,17-Apr-2022,,,PT,"joshua.wilson1@atech,org"
+EMP1004,Ryan,campbell,Information Technology,Data Analyst,PG5,2020/12/27,,,Full-time ,ryan.campbell@atech.org
+EMP1297,DEBORAH,Rodriguez,Operations,Operations Manager,PG7,"October 06, 2024",,97742,Part Time,deborah.rodriguez@atech.org
+EMP1128,Heather,Adams,Human Resources,Benefits Specialist,PG4,07-Feb-2025,,,temporary,heather.adams@atech.org
+EMP1387,CAROLYN,PARKER,Customer Service,Client Success Manager,PG7,07-10-21,02-01-26,99152,part-time,carolyn.parker@atech.org
+EMP1362,DEBRA,kim,Sales,Business Development Rep,PG-3,04/22/2019,11-13-22,39907,temporary,debra.kim@atech.org
+EMP1266,Sharon,turner,Finance,Financial Analyst,PG5,"July 31, 2023",,74736,Full Time,sharon.turner@atech.org
+EMP1020,Christine,Young,Marketing,Marketing Manager,PG-7,2015-11-14,,97979,Contractor,christine.young@atech.org
+EMP1182,Carol,Hill,Marketing,Content Strategist,PG3,03-15-17,,56109,Full-time ,carol.hill@atech.org
+EMP1295,Michelle,Reyes,Legal,Legal Counsel,,10/14/2020,,109666,PT,michelle.reyes@atech.com
+EMP1267,Nicholas,Lopez,Sales,Business Development Rep,PG3,04-27-18,04-30-19,40747,full-time,nicholas.lopez@atech.org
+EMP1246,Charles,Perez,Operations,Logistics Coordinator,PG3,29-Jan-2024,,52342,Full Time,charles.perez@atech.org
+EMP1375,Shirley,Parker,Information Technology,IT Manager,PG7,11/13/2017,,78828,FT,shirley.parker@atech.org
+EMP1322,Amy,Thompson,Information Technology,Software Engineer,PG6,05/24/2021,17-Apr-2024,"$69,770",Contractor,amy.thompson@atech.org
+EMP1111,dennis,Kim,Finance,Controller,PG3,2023-02-11,,54639,CONTRACT,dennis.kim@atech.org
+EMP1160,Rebecca,Morales,Human Resources,HR Manager,PG7,"December 26, 2015",,98319,Full-time ,rebecca.morales@atech.org
+EMP1482,debra,Cox,Human Resources,HR Director,PG9,2020-01-18,03/30/2024,134402,temporary,debra.cox@atech.org
+EMP1476,Rachel,HARRIS,Operations,Operations Director,PG9,2024/05/31,,"$138,516",Contractor,rachel.harris@atech.org
+EMP1483,Donna,Hill,Legal,Compliance Officer,PG6,2023-10-30,,73675,Temporary,
+EMP1455,BARBARA,WILSON,Executive,Chief Operating Officer,PG6,09/13/2019,,69676,Full Time,barbara.wilson@atech.org
+EMP1450,Ronald,CARTER,Information Technology,DevOps Engineer,PG6,09/20/2024,,82463,Contract,ronald.carter@atech.org
+EMP1088,Gregory,Cruz,Human Resources,HR Manager,PG7,2023/03/20,,77203,Full Time,gregory.cruz@atech.org
+EMP1134,Amy,Moore,Marketing,Marketing Manager,PG7,2024/06/28,,83279,temporary,amy.moore@atech.org
+EMP1167,patricia,Green,Executive,Chief Financial Officer,PG6,04/20/2021,"September 03, 2026",65960,Full Time,patricia.green@atech.org
+EMP1156,edward,Wright,Engineering,Mechanical Engineer,PG6,2016-09-23,,,FULL-TIME,edward.wright@atech.org
+EMP1337,Mark,Scott,Sales,Sales Representative,PG3,12-28-24,,39369,temporary,mark.scott@atech.org
+EMP1315,Carol,Hernandez,Legal,Compliance Officer,PG6,11/19/2015,,86226,full-time,carol.hernandez@atech.org
+EMP1209,Justin,kelly,Customer Service,Call Center Agent,PG2,22-May-2017,2019-02-06,38920,Full Time,"justin.kelly1@atech,org"
+EMP1192,Gary,Lopez,information technology,QA Engineer,PG6,2024/08/15,,88758,Full Time,gary.lopez@atech.org
+EMP1037,JONATHAN,White,Sales,Account Executive,PG3,05/07/2021,,,FT,jonathan.white@atech.org
+EMP1168,Pamela,Roberts,Operations,Operations Manager,PG7,02-18-22,,80770,Temporary,pamela.roberts@atech.org
+EMP1380,ANTHONY,Lee,Customer Service,Client Success Manager,PG7,"June 16, 2018",01-16-24,84336,Temp,anthony.lee@atech.org
+EMP1289,JOSHUA,Reed,Operations,Operations Director,PG9,"June 10, 2022",,106226,Full Time,joshua.reed@atech.org
+EMP1060,MARGARET,ROBINSON,Operations,Operations Manager,pg7,2018-03-31,,94529,Contract,margaret.robinson@atech.org
+EMP1184,Emily,mitchell,Legal,Legal Assistant,PG2,06-04-20,,35029,full-time,emily.mitchell@atech.org
+EMP1234, Patrick ,MILLER,Information Technology,QA Engineer,pg6,"January 16, 2017",,"$88,836",Full-Time,patrick.miller@atech.com
+EMP1277,Lisa,ROBERTS,Legal,Legal Assistant,,28-Jan-2020,28-Apr-2020,35253,Full-time ,lisa.roberts@atech.org
+EMP1021,Jerry,SCOTT,Operations,Operations Director,PG9,"June 05, 2022",,131193,Temp,jerry.scott@atech.org
+EMP1119,frank,Bailey,Sales,Business Development Rep,PG3,06/20/2022,,39422,Full Time,frank.bailey@atech.org
+EMP1175,Patricia, Parker ,Information Technology,QA Engineer,pg6,05-Jun-2022,08-21-24,73147,PART-TIME,patricia.parker@atech.com
+EMP1386,Charles, Stewart ,customer service,Customer Service Rep,,2018/06/02,,37908,Full-Time,charles.stewart@atech.org
+EMP1042,Paul,Cook,Engineering,Project Engineer,PG-6,23-Nov-2015,,"$82,344",Full-Time,paul.cook@atech.org
+EMP1410,William,Hill,Finance,Accounts Payable Clerk,PG-2,02-18-18,,37721,CONTRACT,william.hill@atech.org
+EMP1010, Carol ,Williams,Executive,VP of Marketing,PG9,02-28-15,2022-04-26,"$135,080",TEMPORARY,carol.williams@atech.org
+EMP1285,Alexander,Scott,Operations,Operations Director,PG9,09-Sep-2019,,132116,PART-TIME,alexander.scott@atech.org
+EMP1500,JERRY,hernandez,Marketing,Marketing Manager,PG7,03-18-15,,95558,PT,jerry.hernandez@atech.org
+EMP1098,stephanie,Miller,Executive,VP of Marketing,PG9,06/22/2021,,132756,FULL-TIME,stephanie.miller@atech.org
+EMP1204, George ,Miller,Sales,Business Development Rep,PG3,2025/08/11,,41439,Full-Time,george.miller@atech.org
+EMP1355,Larry,Morales,Engineering,Engineering Manager,PG6,04-Jul-2018,,86750,full-time,
+EMP1312, Emily ,Davis,Customer Service,Client Success Manager,PG7,"October 16, 2020",,85900,full-time,emily.davis@atech.org
+EMP1039,David,Young,Finance,Controller,PG3,01/23/2020,,53637,TEMPORARY,david.young@atech.org
+EMP1199,Lisa,ANDERSON,Customer Service,Client Success Manager,PG7,"August 26, 2023",,"$89,959",Full Time,lisa.anderson@atech.org
+EMP1207,Raymond,Kim,Executive,Chief Operating Officer,PG6,"May 22, 2024",,81518,PT,raymond.kim@atech.org
+EMP1497,Jonathan,Howard,Finance,Payroll Specialist,PG4,2020/10/09,,60516,full-time,jonathan.howard@atech.org
+EMP1026,Eric,Reyes,Human Resources,HR Director,PG9,"September 21, 2017",,121331,PART-TIME,eric.reyes@atech.org
+EMP1227,kevin,Anderson,Legal,Legal Assistant,PG2,08/13/2018,,40848,Full Time,kevin.anderson@atech.com
+EMP1190,Rebecca,Nelson,Operations,Warehouse Associate,PG2,08/22/2017,,"$39,593",FULL-TIME,rebecca.nelson@atech.org
+EMP1366,Michelle,Williams,Executive,Chief Executive Officer,PG6,03-23-16,,89230,FULL-TIME,michelle.williams@atech.org
+EMP1385,george, Gomez ,Marketing,Marketing Coordinator,PG-3,04-13-19,2019/07/17,44049,CONTRACT,george.gomez@atech.org
+EMP1025,JACOB,Ward,Finance,Accounts Payable Clerk,PG2,2019/05/12,,35395,Full Time,jacob.ward@atech.org
+EMP1314,James,Rogers,Legal,Legal Assistant,PG2,"July 28, 2016",01-24-16,40144,FULL-TIME,james.rogers@atech.org
+EMP1180,Emily,gutierrez,Legal,Paralegal,PG4,05-30-24,03/03/2026,57886,Full-Time,emily.gutierrez@atech.org
+EMP1334,carolyn,Morgan,Marketing,Marketing Manager,PG7,"June 11, 2018",2019-11-01,80746,full-time,carolyn.morgan@atech.com
+EMP1231,emma,Kelly,finance,Accounts Payable Clerk,PG2,2020/03/19,,33096,FULL-TIME,emma.kelly@atech.org
+EMP1265,Barbara,Kelly,Customer Service,Customer Support Lead,pg5,13-Apr-2022,,70030,Contract,barbara.kelly@atech.org
+EMP1101,PAMELA,Robinson,Human Resources,HR Director,,07-12-23,,"$136,486",Full-time ,pamela.robinson@atech.org
+EMP1230,Nicholas,Thomas,Finance,Accounts Payable Clerk,PG-2,10-Jan-2015,,37401,PART-TIME,nicholas.thomas@atech.org
+EMP1235,Andrew,Kim,Human Resources,HR Manager,PG7,2015-03-29,"September 08, 2022",95981,FULL-TIME,andrew.kim@atech.org
+EMP1050,Anna,jones,Executive,Chief Executive Officer,PG6,2021-06-12,,72692,Full-Time,anna.jones@atech.org
+EMP1129,Karen,Carter,Information Technology,QA Engineer,PG6,"January 19, 2017",08-03-20,"$78,376",Full Time,karen.carter@atech.org
+EMP1102,Jack,Davis,Information Technology,Network Engineer,PG6,09/23/2025,,86379,FULL-TIME,jack.davis@atech.org
+EMP1329,George,miller,Finance,Accounts Payable Clerk,PG2,"December 01, 2015",,34994,Full-Time,george.miller1@atech.org
+EMP1193,Ashley,Lewis,Operations,Warehouse Associate,PG-2,04-16-26,,32112,contract ,ashley.lewis@atech.org
+EMP1456,Daniel,Mitchell,Information Technology,Systems Administrator,PG3,"April 10, 2026",,46488,CONTRACT,daniel.mitchell@atech.org
+EMP1003,JANET, Collins ,Engineering,Mechanical Engineer,pg6,29-Jul-2021,,80403,CONTRACT,janet.collins@atech.org
+EMP1384,Margaret,White,Finance,Payroll Specialist,PG4,"May 21, 2017",2017-01-30,56497,Full-time ,margaret.white@atech.org
+EMP1024,Jeffrey,Ramirez,engineering,Project Engineer,PG6,10/22/2018,,94009,PART-TIME,jeffrey.ramirez@atech.org
+EMP1324,Ryan,Thompson,Customer Service,Call Center Agent,PG2,05/10/2019,,"$34,234",Full Time,ryan.thompson@atech.org
+EMP1492,Elizabeth,Cooper,Executive,Chief Operating Officer,PG6,07-13-19,,74878,full-time,elizabeth.cooper@atech.org
+EMP1465,Susan,Gomez,Human Resources,HR Director,PG9,2021/08/28,,135186,FULL-TIME,
+EMP1124,Robert,Cook,Customer Service,Customer Support Lead,PG5,2018-05-04,"May 15, 2025","$59,753",full-time,robert.cook@atech.org
+EMP1302,SARAH,Turner,Legal,Legal Assistant,PG2,"July 06, 2024",,35945,Full Time,sarah.turner@atech.org
+EMP1242,Gregory, Clark ,Customer Service,Customer Service Rep,PG3,10/28/2020,11/08/2023,41331,TEMPORARY,gregory.clark@atech.org
+EMP1012,Jonathan,Edwards,Information Technology,QA Engineer,PG6,08-08-20,,"$74,012",Contract,jonathan.edwards@atech.org
+EMP1261,brandon,Wright,Engineering,Mechanical Engineer,pg6,2021/10/25,"April 26, 2024",92061,PART-TIME,brandon.wright@atech.org
+EMP1146,Elizabeth,Lopez,Customer Service,Call Center Agent,PG2,04-12-23,,"$43,382",Full-time ,elizabeth.lopez@atech.org
+EMP1022,JOSEPH,Roberts,Executive,Chief Financial Officer,pg6,12-Oct-2024,,73346,Temp,joseph.roberts@atech.org
+EMP1361,Benjamin,DAVIS,Engineering,Civil Engineer,PG6,23-May-2020,,79936,Contractor,benjamin.davis@atech.org
+EMP1062,Linda,Morris,Customer Service,Client Success Manager,PG-7,12-12-24,07-Dec-2025,97482,FT,linda.morris@atech.org
+EMP1433,Pamela,Taylor,Marketing,Graphic Designer,PG4,15-Dec-2022,,46158,part-time,pamela.taylor1@atech.org
+EMP1238, Kathleen ,Young,Operations,Logistics Coordinator,PG3,08/13/2015,,53167,Full Time,kathleen.young@atech.org
+EMP1402,James,Thomas,Engineering,Electrical Engineer,PG6,05-13-24,,70213,FT,james.thomas@atech.org
+EMP1052,Steven,Johnson,Legal,Compliance Officer,PG6,08-28-16,,87203,Full-time ,steven.johnson@atech.org
+EMP1142,Nancy,Hernandez,Executive,Chief Executive Officer,PG6,"September 25, 2015",04-Nov-2021,89938,Full-time ,nancy.hernandez@atech.org
+EMP1049,RYAN,Johnson,Information Technology,QA Engineer,PG6,09-04-16,,89455,Full-time ,ryan.johnson@atech.org
+EMP1396,Katherine, Cruz ,Operations,Logistics Coordinator,PG3,2021-10-06,,54704,Part Time,katherine.cruz@atech.org
+EMP1300,Stephanie,Taylor,Marketing,Marketing Coordinator,PG3,2016/03/11,21-Jul-2022,48049,Full-Time,stephanie.taylor@atech.org
+EMP1288,Daniel,Harris,Operations,Warehouse Associate,PG2,"August 23, 2025",,41017,Full-time ,daniel.harris@atech.org
+EMP1303,George,Jones,Human Resources,HR Director,PG9,2017-07-16,,136671,Full-time ,george.jones@atech.org
+EMP1363,Samuel,Garcia,Legal,Paralegal,PG4,"November 18, 2016",,45906,full-time,samuel.garcia@atech.org
+EMP1034, Paul ,Ward,Engineering,Project Engineer,PG6,01/07/2021,,83232,TEMPORARY,paul.ward@atech.org
+EMP1338,Melissa,Roberts,Operations,Operations Analyst,PG5,2021/11/28,,64327,Full-time ,melissa.roberts@atech.org
+EMP1084,Benjamin,wilson,Executive,Chief Operating Officer,pg6,08/05/2022,,69371,Contractor,benjamin.wilson@atech.org
+EMP1494,Angela,MARTINEZ,Information Technology,DevOps Engineer,PG6,02-Oct-2023,,92599,Full Time,angela.martinez@atech.org
+EMP1123,PATRICK,Martin,Human Resources,HR Manager,PG7,10-May-2016,,91571,full-time,
+EMP1015,Raymond,Howard,Executive,VP of Marketing,PG9,2019-08-01,,140733,Full Time,raymond.howard@atech.org
+EMP1478,Rachel,Kelly,Marketing,Marketing Director,PG9,2016/01/28,07/10/2020,122763,PART-TIME,rachel.kelly@atech.org
+EMP1364,Jack,Cook,Finance,Controller,PG3,08/24/2020,,59019,FT,jack.cook@atech.org
+EMP1280,NICHOLAS,Anderson,Information Technology,Systems Administrator,PG3,2025-02-10,,52880,Part Time,nicholas.anderson@atech.org
+EMP1440,Stephanie,Harris,Customer Service,Customer Service Rep,PG3,2018-01-23,,"$36,175",Full-Time,stephanie.harris@atech.org
+EMP1056,George,lopez,Customer Service,Customer Service Rep,PG3,"March 14, 2025",,40332,full-time,
+EMP1439,Margaret,Murphy,Customer Service,Customer Service Rep,pg3,2017/05/11,,42041,Full Time,"margaret.murphy1@atech,org"
+EMP1100,Angela,Morgan,Legal,Compliance Officer,PG6,"April 06, 2023",,80561,FT,angela.morgan@atech.com
+EMP1341,Jacob,Thomas,Marketing,SEO Specialist,PG4,27-Jun-2020,09-05-23,53877,Full-time ,jacob.thomas@atech.org
+EMP1340,Patrick, Reed ,Information Technology,Network Engineer,PG6,2021/06/29,,74095,contract ,patrick.reed@atech.org
+EMP1437,Laura,Rodriguez,Customer Service,Customer Support Lead,PG5,01/04/2026,,66615,PT,laura.rodriguez@atech.org
+EMP1085,Jennifer,sanchez,Human Resources,HR Coordinator,PG3,08-14-25,,47080,Full-Time,jennifer.sanchez@atech.org
+EMP1195,Susan,Williams,Human Resources,Benefits Specialist,PG4,2023-07-13,06-12-26,51794,Full-time ,susan.williams@atech.org
+EMP1208,Joshua,Peterson,Operations,Operations Director,PG9,07-08-21,,119243,Full-time ,joshua.peterson@atech.org
+EMP1161,Larry,DAVIS,Customer Service,Customer Support Lead,PG5,01/24/2022,,61879,contract ,larry.davis@atech.org
+EMP1392,Benjamin,thomas,Sales,Sales Manager,PG7,11/25/2024,,80145,CONTRACT,benjamin.thomas@atech.org
+EMP1240,Anthony,ROBINSON,Sales,Account Executive,,"May 23, 2017",2018/05/09,51666,Full-Time,anthony.robinson@atech.org
+EMP1395,Raymond,gutierrez,Marketing,SEO Specialist,PG4,"October 29, 2021",,61172,FT,raymond.gutierrez@atech.org
+EMP1095,jeffrey,Turner,Legal,Legal Assistant,PG2,03/22/2018,,36342,PT,jeffrey.turner@atech.org
+EMP1201,Shirley,Kelly,Executive,Chief Financial Officer,PG6,"August 23, 2026",,86949,Full-time ,shirley.kelly@atech.org
+EMP1372,Andrew,MURPHY,Customer Service,Customer Support Lead,PG5,"November 01, 2019",,,part-time,andrew.murphy@atech.org
+EMP1347,Nicole,Clark,Executive,Chief Financial Officer,PG6,2015/08/28,"November 06, 2018",71054,FULL-TIME,"nicole.clark@atech,org"
+EMP1206,Emma,Thomas,Legal,Legal Assistant,PG-2,03-10-26,,41260,FULL-TIME,emma.thomas@atech.org
+EMP1109,Kathleen,Adams,Sales,Sales Representative,PG3,2025/01/07,,42272,Full-time ,kathleen.adams@atech.org
+EMP1065,Amanda,Wilson,Executive,VP of Marketing,,2025/10/25,,133942,Full-Time,amanda.wilson@atech.org
+EMP1343,Angela,Harris,Information Technology,IT Support Specialist,PG4,02-03-22,,53476,Full-time ,angela.harris@atech.org
+EMP1268,Katherine,Kelly,Sales,Sales Director,PG9,09-Aug-2016,05-Jul-2021,139357,Full-Time,katherine.kelly@atech.org
+EMP1048,HEATHER,Evans,Human Resources,HR Coordinator,PG3,"July 21, 2023",,54201,CONTRACT,heather.evans@atech.org
+EMP1140,Sarah,Green,Finance,Financial Analyst,PG-5,05/17/2023,,65006,Full Time,sarah.green@atech.org
+EMP1333,Rachel,Ortiz,Engineering,Project Engineer,PG6,12/16/2017,,83007,CONTRACT,rachel.ortiz@atech.com
+EMP1301,DANIEL,STEWART,Information Technology,Network Engineer,PG6,2023-01-30,,86200.00,Temp,daniel.stewart@atech.org
+EMP1491,MARIA,Ramos,Engineering,Engineering Manager,PG6,2021-03-10,2025-07-30,80176,Full-time ,maria.ramos1@atech.org
+EMP1157, Jennifer ,Johnson,Sales,Sales Representative,PG3,2018/05/14,"November 04, 2018",45729,part-time,jennifer.johnson@atech.org
+EMP1257,Samuel,Hall,Legal,Legal Counsel,PG8,13-Jan-2023,,96399,Full-time ,samuel.hall@atech.org
+EMP1293,Brenda,Rogers,Finance,Financial Analyst,PG5,2022-02-22,,"$72,777",Full Time,brenda.rogers@atech.org
+EMP1133, George ,Anderson,Executive,Chief Financial Officer,PG6,2019/01/13,,84406,temporary,george.anderson@atech.org
+EMP1284,Andrew,Ward,Executive,VP of Marketing,,2025-03-19,,156842,FT,andrew.ward@atech.org
+EMP1233,Steven,flores,Executive,Chief Operating Officer,PG6,2018/02/05,,88117,part-time,steven.flores@atech.org
+EMP1217,Jessica,Morgan,Human Resources,Benefits Specialist,PG4,2016-01-08,,50072,Temporary,jessica.morgan@atech.org
+EMP1203,Barbara,Murphy,Legal,Compliance Officer,PG6,26-May-2015,2020-02-07,68889,Full-Time,barbara.murphy@atech.org
+EMP1006,justin,Diaz,Executive,VP of Sales,PG9,07-Feb-2018,,143723.00,Full-Time,justin.diaz@atech.org
+EMP1083,Pamela,Turner,Information Technology,IT Support Specialist,pg4,2026/05/19,,"$59,816",full-time,pamela.turner@atech.org
+EMP1258,Scott,Peterson,Information Technology,IT Support Specialist,PG4,"November 27, 2020",,53079,Contractor,scott.peterson@atech.org
+EMP1089,Emily,Young,Finance,Accountant,PG3,09/06/2023,,46096,Contractor,emily.young@atech.org
+EMP1017,Joshua,Wilson,Information Technology,IT Manager,PG7,2018-06-27,05/08/2025,78782,Full-time ,joshua.wilson@atech.org
+EMP1359,Mark,Richardson,Finance,Payroll Specialist,PG4,"February 17, 2021",,51104,Full-Time,mark.richardson@atech.org
+EMP1080,Catherine,Lee,Marketing,SEO Specialist,,2024-10-23,,64821,Contract,catherine.lee@atech.org
+EMP1371,Rachel,Perez,Human Resources,Recruiter,PG3,07-May-2018,07/22/2022,54054,Full-time ,rachel.perez@atech.org
+EMP1442,ERIC,WILSON,Customer Service,Call Center Agent,pg2,2015-02-08,06/02/2019,39274,Full Time,eric.wilson@atech.com
+EMP1325,Donna,Cox,Information Technology,Systems Administrator,PG3,"February 25, 2020",01-31-26,58943,full-time,donna.cox@atech.org
+EMP1228,eric,Phillips,Executive,VP of Marketing,PG9,2021/05/11,,121220,full-time,eric.phillips1@atech.org
+EMP1173,Anthony,Young,Finance,Finance Manager,PG7,2015/01/11,2020/01/09,83410,full-time,anthony.young@atech.org
+EMP1211,HEATHER,Cruz,Sales,Sales Manager,PG7,29-May-2019,,99743,Full Time,heather.cruz@atech.org
+EMP1444,Deborah,Ramirez,Legal,Legal Counsel,PG8,"March 31, 2021",,99326,Full Time,deborah.ramirez@atech.org
+EMP1154,DAVID,Rogers,Sales,Account Executive,PG3,2016/06/25,,"$57,576",Temp,david.rogers@atech.org
+EMP1271,RACHEL,Richardson,Marketing,Marketing Coordinator,PG3,2015-03-10,03-Sep-2022,49617,TEMPORARY,rachel.richardson@atech.org
+EMP1412,Katherine,Martinez,Engineering,Mechanical Engineer,PG6,2017-10-08,,94740,contract ,katherine.martinez@atech.org
+EMP1241,Emily,morales,Information Technology,IT Manager,PG7,2017-11-16,09-14-22,88037,FT,emily.morales@atech.org
+EMP1406,lisa,Allen,Finance,Financial Analyst,PG5,10/18/2018,07/11/2022,"$65,053",full-time,lisa.allen@atech.org
+EMP1428, Melissa ,Ortiz,Legal,Legal Assistant,PG2,29-Dec-2023,,40762,Part Time,melissa.ortiz@atech.org
+EMP1214,BRANDON,Richardson,Sales,Sales Representative,PG3,22-Jul-2023,,49182,FULL-TIME,brandon.richardson@atech.org
+EMP1292,Barbara,Nelson,Legal,Paralegal,PG4,"January 03, 2022",2025/08/03,46689,Full Time,barbara.nelson@atech.org
+EMP1007,Stephen,Johnson,Finance,Payroll Specialist,PG4,2022/08/18,,56743,Full-time ,stephen.johnson@atech.org
+EMP1431,Emily,Harris,Executive,Chief Financial Officer,PG6,11-09-20,18-Apr-2024,89654,Contractor,emily.harris2@atech.com
+EMP1391,Paul,Martin,Engineering,Engineering Manager,PG-6,02/18/2016,,89937,Full-Time,paul.martin@atech.org
+EMP1041,Benjamin,Ramos,Sales,Business Development Rep,PG3,05-05-18,,37880,Full Time,benjamin.ramos@atech.org
+EMP1496,Katherine,HALL,Executive,Chief Operating Officer,PG-6,2020-12-03,,75635,FT,katherine.hall@atech.org
+EMP1188,Debra,moore,Human Resources,Benefits Specialist,PG4,2020/10/26,,64297,PART-TIME,debra.moore@atech.org
+EMP1137,Richard,Cruz,Legal,Compliance Officer,PG6,07/31/2017,2021/07/05,67201,CONTRACT,richard.cruz@atech.org
+EMP1016,Elizabeth,Morgan,Sales,Sales Director,PG-9,"October 30, 2022",,122380,Full Time,elizabeth.morgan@atech.org
+EMP1081,Carolyn,NELSON,Information Technology,Systems Administrator,PG3,08-06-25,,41255,part-time,carolyn.nelson@atech.org
+EMP1305,LARRY,King,Human Resources,Benefits Specialist,PG4,27-Feb-2016,,63504,Part-Time,larry.king@atech.org
+EMP1417,Michelle,Rodriguez,Finance,Accountant,PG3,2015-07-16,,55727,FT,michelle.rodriguez@atech.org
+EMP1038,SAMANTHA,Morales,Finance,Accountant,PG3,26-Sep-2025,,"$58,810",full-time,samantha.morales@atech.org
+EMP1378,GREGORY,Gonzalez,Operations,Operations Analyst,PG5,2017-09-26,,64315.00,TEMPORARY,gregory.gonzalez@atech.org
+EMP1055,THOMAS,Cooper,Operations,Operations Director,PG9,"September 09, 2018",04-Mar-2024,137885,Full-Time,thomas.cooper@atech.org
+EMP1028,ALEXANDER,Martin,Sales,Sales Representative,PG3,06-13-25,,44797,FULL-TIME,alexander.martin@atech.org
+EMP1191,sarah,Sanchez,Operations,Logistics Coordinator,PG3,04/06/2025,,51329,FT,sarah.sanchez@atech.com
+EMP1400,Gary,Turner,Information Technology,Systems Administrator,PG-3,04-07-25,,56573,Full-time ,gary.turner@atech.org
+EMP1014, Linda ,miller,Executive,VP of Sales,PG9,07-13-18,2024-04-22,152954,Full-Time,linda.miller@atech.org
+EMP1194,AMANDA,Harris,Information Technology,QA Engineer,PG6,2017/12/10,"April 08, 2018",68626,Full-time ,amanda.harris@atech.org
+EMP1353, Timothy ,Cox,Operations,Operations Manager,PG7,"February 28, 2017",,84920,full-time,timothy.cox@atech.org
+EMP1463,Kevin, Lewis ,Executive,VP of Marketing,PG9,"June 16, 2023",,124238,PART-TIME,kevin.lewis@atech.org
+EMP1405,Justin,Cruz,Finance,Controller,PG3,01/04/2016,,59885,Full Time,justin.cruz@atech.org
+EMP1029,Rebecca,Morgan,Engineering,Engineering Manager,PG6,"February 13, 2021",,75226,Full-time ,rebecca.morgan@atech.org
+EMP1470,Scott,Thompson,Customer Service,Customer Service Rep,PG3,28-Jul-2023,,"$48,742",Full-Time,
+EMP1108,Janet,Collins,Marketing,Graphic Designer,pg4,07/24/2022,,49050,Part Time,janet.collins1@atech.org
+EMP1125,Katherine,Jones,Finance,Accounts Payable Clerk,PG2,2025/09/04,2025/11/11,35106,full-time,katherine.jones@atech.org
+EMP1376,Kenneth,Morales,Information Technology,DevOps Engineer,PG6,2016-03-23,09-15-16,"$69,743",part-time,kenneth.morales2@atech.org
+EMP1283,Scott,Kim,Human Resources,HR Manager,PG7,2019/08/28,2021-05-26,92935,Full-Time,
+EMP1074,Karen,Davis,Legal,Paralegal,PG4,09-14-22,,58286,Part-Time,karen.davis@atech.org
+EMP1236,Emily,Phillips,Operations,Logistics Coordinator,PG3,08-12-26,,48642,FT,emily.phillips@atech.org
+EMP1151,Deborah,Hall,Customer Service,Call Center Agent,PG2,2016/11/21,"September 17, 2023","$34,290",Full-time ,deborah.hall@atech.org
+EMP1072,Amy,Reyes,Executive,VP of Marketing,PG9,2022-04-01,,149419,Full-Time,amy.reyes@atech.org
+EMP1475,Emily,Taylor,Executive,VP of Sales,PG9,2020/11/05,,124873,Full-Time,emily.taylor@atech.org
+EMP1441,nicole,Gonzalez,Information Technology,IT Manager,PG7,2023/10/07,,79068,Part Time,nicole.gonzalez@atech.org
+EMP1031, Anna ,Miller,Operations,Operations Manager,pg7,26-Nov-2015,,96303,Full-Time,anna.miller@atech.org
+EMP1471,Alexander,gonzalez,Executive,Chief Financial Officer,PG6,"September 22, 2024",,77581,Full-time ,
+EMP1069,Maria,Parker,Information Technology,Systems Administrator,PG3,02-29-20,,52458,Contract,maria.parker@atech.org
+EMP1243,Pamela,taylor,Executive,Chief Financial Officer,PG6,2020/04/15,,68272.00,Full-time ,pamela.taylor@atech.org
+EMP1286, Kimberly ,Ortiz,Executive,VP of Marketing,PG9,2026/02/18,,143190,Full Time,kimberly.ortiz@atech.org
+EMP1368,Jacob,EVANS,Operations,Logistics Coordinator,PG3,11/07/2020,,43644,FULL-TIME,"jacob.evans@atech,org"
+EMP1009,William,Morgan,Information Technology,Systems Administrator,PG3,2018-09-14,08-02-25,55574,Temp,william.morgan@atech.org
+EMP1105,Ashley,Miller,Engineering,Civil Engineer,PG6,03/31/2017,,"$88,904",Full Time,ashley.miller@atech.org
+EMP1498,Sharon,Mitchell,Information Technology,DevOps Engineer,PG6,04/21/2025,,,Full-time ,sharon.mitchell@atech.org
+EMP1186,PATRICK,Scott,Customer Service,Client Success Manager,PG7,23-Nov-2019,,86426,Contractor,patrick.scott@atech.org
+EMP1121,Mark,Jackson,Human Resources,HR Coordinator,PG3,2024/05/13,,51065,FULL-TIME,mark.jackson@atech.org
+EMP1045,ANTHONY,Wright,Engineering,Civil Engineer,PG6,2025/11/14,,77438,Full Time,anthony.wright@atech.org
+EMP1360,Angela,Collins,Engineering,Civil Engineer,PG6,2026/07/30,,68609,Full-time ,angela.collins@atech.org
+EMP1113,Anna,Davis,Finance,Accounts Payable Clerk,PG2,"January 14, 2019",,32259,temporary,anna.davis@atech.org
+EMP1398,Jack, Smith ,Legal,Compliance Officer,PG6,2020-03-30,,72736,CONTRACT,jack.smith@atech.org
+EMP1414,Ronald,Anderson,Marketing,Marketing Director,PG9,2019/05/07,,,PART-TIME,ronald.anderson@atech.org
+EMP1270,Michelle,Edwards,Legal,Paralegal,PG4,10/02/2019,13-Sep-2025,50437,Part Time,michelle.edwards@atech.org
+EMP1216, Jack ,Parker,finance,Payroll Specialist,pg4,2022/06/10,2023-05-06,53038,Full-Time,jack.parker@atech.org
+EMP1477,barbara,Campbell,Operations,Warehouse Associate,PG2,24-Jan-2020,03-30-21,32397,Full-Time,barbara.campbell@atech.org
+EMP1298,Richard,CRUZ,Information Technology,IT Manager,pg7,2017-06-09,,88297,contract ,richard.cruz1@atech.org
+EMP1043,Pamela,Garcia,Information Technology,DevOps Engineer,PG6,2021/03/28,,85005,Contract,pamela.garcia@atech.org
+EMP1390,brenda, Miller ,Human Resources,HR Coordinator,PG3,"July 23, 2018",2024-04-14,46273,Full-Time,brenda.miller@atech.org
+EMP1118,SHIRLEY,Moore,Customer Service,Customer Support Lead,PG5,"October 09, 2016",,62177,Full-time ,
+EMP1275,Sarah,Parker,Information Technology,Systems Administrator,pg3,08/27/2017,2019/05/15,50403,full-time,sarah.parker@atech.org
+EMP1273,Joshua, Walker ,Engineering,Electrical Engineer,pg6,"October 11, 2020",,94604,Contract,joshua.walker@atech.org
+EMP1253,Janet,Johnson,Sales,Sales Representative,pg3,2019-11-15,,40468,contract ,janet.johnson@atech.org
+EMP1274,Gregory,Ward,Sales,Business Development Rep,PG3,"July 25, 2024",,39938.00,FULL-TIME,gregory.ward@atech.org
+EMP1276,Susan,Taylor,Information Technology,Software Engineer,PG6,26-Dec-2020,,92983,Full Time,susan.taylor@atech.org
+EMP1255, Michelle ,Adams,Information Technology,Software Engineer,PG6,09/27/2017,24-Dec-2024,92403,CONTRACT,michelle.adams@atech.com
+EMP1282,MICHAEL,Turner,Marketing,Content Strategist,PG3,2019-01-20,2018-11-07,54622,full-time,michael.turner@atech.org
+EMP1215,Katherine,Harris,Operations,Operations Director,PG9,2018/10/03,,"$110,396",Full-time ,katherine.harris@atech.org
+EMP1480,SANDRA,Flores,Finance,Finance Manager,PG7,01-08-17,,,Full-Time,sandra.flores@atech.org
+EMP1126, Larry ,stewart,Marketing,Marketing Coordinator,PG3,"April 15, 2021",,"$43,218",FT,larry.stewart@atech.org
+EMP1335,Christopher,Morgan,Marketing,Marketing Coordinator,PG3,"March 15, 2026",,"$42,408",Temp,christopher.morgan@atech.org
+EMP1071,mark,nelson,Information Technology,IT Support Specialist,PG4,2026/06/09,,64727,Temp,mark.nelson@atech.org
+EMP1464,Matthew,Anderson,Executive,Chief Operating Officer,PG6,07/12/2023,"June 17, 2023",69175,full-time,matthew.anderson@atech.org
+EMP1326,Karen,Kelly,human resources,Recruiter,pg3,2025/07/22,,41449,full-time,karen.kelly@atech.org
+EMP1309,kevin,Wright,Marketing,Marketing Coordinator,PG3,2023-10-10,,46183,Full-time ,kevin.wright@atech.org
+EMP1212,Thomas,Lee,Executive,Chief Operating Officer,PG6,2018-06-22,"March 04, 2022",65184,TEMPORARY,thomas.lee@atech.org
+EMP1356, Jack ,Howard,Human Resources,Benefits Specialist,PG4,08/08/2024,,59182,Full-time ,jack.howard@atech.org
+EMP1247,Maria,RAMOS,Engineering,Project Engineer,,"July 09, 2015",2018/03/26,81565,Part-Time,maria.ramos@atech.org
+EMP1449,Donald,Cook,Finance,Accounts Payable Clerk,PG2,06-Sep-2018,,37939,Full Time,donald.cook@atech.org
+EMP1254,ANNA,Stewart,Information Technology,Network Engineer,PG6,2015/04/14,05/19/2023,76194,Temp,anna.stewart@atech.org
+EMP1424,LISA,smith,Operations,Operations Analyst,PG5,"August 01, 2017",08/08/2022,"$57,416",TEMPORARY,lisa.smith@atech.org
+EMP1487,gregory,Baker,Customer Service,Customer Service Rep,PG3,04-30-21,,43116,Full Time,gregory.baker@atech.org
+EMP1489,Timothy,Evans,Engineering,Electrical Engineer,PG6,2020-03-10,01-18-25,90942,Full-Time,timothy.evans@atech.org
+EMP1393,Jacob,Baker,Marketing,Marketing Director,PG-9,05-09-23,,116223.00,Part Time,jacob.baker@atech.org
+EMP1094,Patricia, Hernandez ,Human Resources,Benefits Specialist,PG4,05/05/2024,,56672,contract ,patricia.hernandez@atech.org
+EMP1066,Brenda,brown,Executive,Chief Operating Officer,PG6,12-06-21,,65948,Full Time,
+EMP1166,Barbara,Scott,Customer Service,Customer Support Lead,PG5,08/03/2020,,64868,Contractor,barbara.scott@atech.org
+EMP1047,Nicholas,Wright,Human Resources,HR Coordinator,PG3,12/25/2025,,53895,FT,nicholas.wright@atech.org
+EMP1075,Heather,Baker,Executive,Chief Executive Officer,PG6,23-Jun-2016,,85672,FT,heather.baker@atech.org
+EMP1143,DENNIS,Garcia,Legal,Legal Counsel,PG-8,2020/07/20,,122862,FT,dennis.garcia@atech.org
+EMP1373,Debra,Collins,Finance,Accountant,PG-3,02-Apr-2022,,55364,full-time,debra.collins@atech.org
+EMP1490,JAMES,MILLER,Operations,Operations Manager,PG7,05-Apr-2017,,84349,FT,james.miller@atech.org
+EMP1296,Andrew,Hall,Executive,VP of Marketing,PG9,02-06-24,,"$128,348",Full-time ,andrew.hall@atech.org
+EMP1474,jonathan,Cruz,Information Technology,DevOps Engineer,PG6,24-Nov-2022,,90777,Part-Time,jonathan.cruz@atech.org
+EMP1035,Gary,Ramirez,Operations,Warehouse Associate,PG2,2021-03-13,,35576,Full Time,gary.ramirez@atech.org
+EMP1245,Brian,Williams,Customer Service,Customer Service Rep,PG3,2019/06/18,,41752,FT,brian.williams@atech.org
+EMP1403,Christine,Edwards,Information Technology,Data Analyst,PG5,2024/03/09,,57926,Full-Time,christine.edwards@atech.org
+EMP1408,Gregory,Gonzalez,Sales,Sales Director,PG9,2024-02-15,,113229,Full Time,gregory.gonzalez1@atech.org
+EMP1370,EMMA,Adams,Marketing,Marketing Manager,PG7,30-Jan-2019,,"$77,765",CONTRACT,emma.adams@atech.org
+EMP1229,Angela,King,Information Technology,Data Analyst,PG5,"July 17, 2016",12/11/2020,69859,FULL-TIME,angela.king@atech.org
+EMP1200,Gregory,Cruz,information technology,QA Engineer,PG6,2015/08/25,,93531,Part Time,gregory.cruz1@atech.org
+EMP1425, Ashley ,Thompson,Sales,Sales Representative,PG3,"April 08, 2017",12/11/2024,40884,Contract,ashley.thompson@atech.org
+EMP1164,Stephanie,Mitchell,Finance,Controller,PG3,09-06-16,06/27/2017,"$59,205",Full Time,stephanie.mitchell@atech.org
+EMP1488,Betty,Stewart,Finance,Payroll Specialist,PG4,2019-03-26,,64460.00,Part Time,betty.stewart@atech.org
+EMP1486,Kathleen,Wright,Finance,Accounts Payable Clerk,PG2,2017-11-09,,36006.00,Contractor,kathleen.wright@atech.org
+EMP1399,Charles,Diaz,Customer Service,Customer Service Rep,pg3,2017/12/01,,37511,FULL-TIME,charles.diaz@atech.org
+EMP1448,Debra,Lewis,Executive,VP of Sales,PG9,12/02/2024,,"$154,175",Full Time,debra.lewis@atech.org
+EMP1002,Anna,Turner,Sales,Business Development Rep,PG3,2015-02-23,,45654.00,FT,anna.turner@atech.org
+EMP1404,michelle,Bailey,Finance,Payroll Specialist,PG4,2016/03/09,,50790,PART-TIME,
+EMP1466,JESSICA,Scott,Executive,VP of Sales,PG9,2023/06/13,,134136,Part Time,jessica.scott@atech.org
+EMP1409,Cynthia,Richardson,Marketing,Graphic Designer,,"May 07, 2016",,61926,Full-time ,cynthia.richardson@atech.org
+EMP1365,Margaret, Scott ,Legal,Legal Assistant,PG2,03-Apr-2016,,37166,TEMPORARY,margaret.scott@atech.org
+EMP1416,Catherine, Garcia ,Sales,Sales Representative,PG3,25-Jan-2025,,42553,FULL-TIME,catherine.garcia@atech.org
+EMP1136,Justin,kelly,Sales,Business Development Rep,PG3,03-23-26,07-31-26,"$42,129",Full-Time,justin.kelly@atech.org
+EMP1189,amanda,Cook,Marketing,Marketing Manager,PG7,23-Jan-2019,,96548,PART-TIME,amanda.cook@atech.org
+EMP1339,Rebecca,Moore,Executive,VP of Marketing,,10-20-21,,125641,Temporary,rebecca.moore@atech.com
+EMP1256,Mary,garcia,Executive,VP of Sales,,"January 03, 2017",2022-09-11,"$159,073",Full-time ,mary.garcia@atech.org
+EMP1139,Betty,collins,Finance,Finance Manager,PG7,2022/01/11,,96977,FT,betty.collins@atech.org
+EMP1054,SAMANTHA,Harris,Executive,Chief Operating Officer,PG6,01/25/2018,,87208,PT,samantha.harris@atech.org
+EMP1179,Dennis,Edwards,Information Technology,Systems Administrator,PG3,30-Oct-2017,2018/10/15,46943,Temp,dennis.edwards@atech.org
+EMP1485,edward,WHITE,Engineering,Electrical Engineer,PG6,11/08/2024,,71561,Full-time ,edward.white@atech.org
+EMP1419,Brenda,Miller,Marketing,SEO Specialist,PG-4,03-21-24,,61162,part-time,brenda.miller1@atech.org
+EMP1320, James ,thompson,Finance,Payroll Specialist,PG4,2025-09-04,,57297,PART-TIME,james.thompson@atech.org
+EMP1155,Daniel,Thomas,Human Resources,Benefits Specialist,PG4,04-Sep-2018,,52496,Full-time ,daniel.thomas@atech.org
+EMP1479,Thomas,Jackson,Customer Service,Call Center Agent,PG2,2023/04/21,,32866,Full-time ,thomas.jackson@atech.org
+EMP1342,Angela,Kelly,Human Resources,HR Coordinator,PG3,2018-04-12,,"$44,668",Full Time,
+EMP1077,Matthew,Lewis,Information Technology,Systems Administrator,PG3,"April 08, 2017",,"$42,528",PART-TIME,matthew.lewis@atech.org
+EMP1218,JACOB,Lee,Engineering,Civil Engineer,PG6,"August 13, 2021",,72468,PT,
+EMP1348,Matthew,Torres,Information Technology,Software Engineer,PG-6,10/20/2019,,91768,Full-time ,matthew.torres@atech.org
+EMP1093,Andrew,hernandez,Marketing,Marketing Manager,PG7,2021-02-26,"August 19, 2024",95809,Full Time,andrew.hernandez@atech.org
+EMP1308,PATRICK,Roberts,Legal,Compliance Officer,PG6,01-Oct-2024,,69756,FULL-TIME,patrick.roberts@atech.org
+EMP1172,Kenneth,WARD,Sales,Sales Director,PG9,26-Feb-2018,,,FT,kenneth.ward@atech.org
+EMP1272,Kenneth,Morales,Executive,VP of Marketing,PG9,2026/03/25,,125768,Part-Time,kenneth.morales1@atech.org
+EMP1220, Stephen ,Martinez,Marketing,Graphic Designer,PG4,2019/06/06,,47103,Full Time,"stephen.martinez@atech,org"
+EMP1092,Kenneth,Martinez,Legal,Legal Assistant,PG2,"January 30, 2019",,41476,Full-Time,kenneth.martinez@atech.org
+EMP1078, Nancy ,Cruz,Human Resources,Recruiter,PG3,"April 29, 2020",,51937,part-time,nancy.cruz@atech.org
+EMP1310,Mary,Evans,Finance,Controller,PG3,2022-11-19,21-Feb-2026,"$43,404",Full-Time,mary.evans@atech.org
+EMP1355,Larry,Morales,Engineering,Engineering Manager,PG6,04-Jul-2018,,86750,full-time,
+EMP1459,Richard,Smith,Legal,Legal Assistant,pg2,03-Oct-2017,,35275,Part Time,richard.smith@atech.org
+EMP1044,Stephanie,Peterson,Human Resources,Recruiter,PG3,2022-04-02,,42885,Contract,stephanie.peterson@atech.org
+EMP1185,michael,lee,Executive,Chief Financial Officer,PG6,2019/08/21,"April 23, 2024",72253,Contract,michael.lee@atech.org
+EMP1061,Thomas,Turner,Engineering,Mechanical Engineer,pg6,2025-01-20,,92433,FULL-TIME,thomas.turner@atech.org
+EMP1171,Patrick,Bailey,Executive,Chief Operating Officer,PG6,"December 07, 2018",,72315,Full Time,patrick.bailey@atech.org
+EMP1316,PATRICIA,Ramos,Sales,Business Development Rep,pg3,11-25-21,,"$42,369",Contract,patricia.ramos@atech.com
+EMP1040,Benjamin, Ramirez ,Marketing,Graphic Designer,,24-Nov-2018,,47330,Full-time ,benjamin.ramirez@atech.org
+EMP1183,Jack, Morales ,Engineering,Electrical Engineer,pg6,07/26/2018,"August 09, 2026",,Contract,
+EMP1145,Richard,Moore,Customer Service,Customer Service Rep,PG3,11-05-17,,40543,FT,richard.moore@atech.org
+EMP1080,Catherine,Lee,Marketing,SEO Specialist,,2024-10-23,,64821,Contract,catherine.lee@atech.org
+EMP1493,Benjamin,THOMAS,Customer Service,Customer Service Rep,PG3,"April 20, 2026",,43910,Full Time,benjamin.thomas1@atech.org
+EMP1057,mark,Rodriguez,Legal,Compliance Officer,PG6,2018/02/19,20-Aug-2018,86274,Full Time,mark.rodriguez@atech.org
+EMP1087,Edward,Perez,Legal,Compliance Officer,pg6,"November 28, 2022",,"$79,651",Part-Time,edward.perez@atech.org
+EMP1252,jason,Harris,Finance,Financial Analyst,PG5,03-19-25,,59476,Part Time,jason.harris@atech.com
+EMP1058,Janet,Martin,Customer Service,Customer Service Rep,PG3,26-Feb-2024,,49659,Part Time,janet.martin@atech.org
+EMP1462,Margaret,Perez,Finance,Accountant,PG3,2015/08/28,05-26-19,54250,FT,margaret.perez@atech.org
+EMP1422,Nicholas,Bailey,Human Resources,Recruiter,PG3,"June 30, 2019",,51266,Full Time,nicholas.bailey@atech.org
+EMP1367,Deborah,Johnson,Customer Service,Call Center Agent,PG-2,04-12-20,,36929,full-time,
+EMP1453,Gary,Mitchell,Human Resources,Benefits Specialist,PG4,2020-07-14,01-Jan-2021,60626,Part Time,gary.mitchell@atech.org
+EMP1352,Stephanie,RIVERA,legal,Legal Assistant,PG2,04/22/2018,,40938,full-time,stephanie.rivera@atech.org
+EMP1197,James, Johnson ,Finance,Accountant,PG3,05/06/2018,,"$58,813",Full-time ,james.johnson@atech.org
+EMP1351,Ronald,Phillips,Executive,Chief Executive Officer,PG6,2018/10/14,05-Feb-2021,89295.00,Contractor,ronald.phillips@atech.org
+EMP1451,Steven,Carter,Legal,Compliance Officer,PG6,2025/10/14,,"$79,863",Full Time,steven.carter@atech.org
+EMP1472,Gary,rodriguez,Engineering,Engineering Manager,PG6,10/13/2017,,,Part-Time,gary.rodriguez@atech.org
+EMP1116,Sarah,Cook,Marketing,Marketing Manager,PG7,11-Mar-2022,2023/11/17,"$98,970",FT,sarah.cook@atech.org
+EMP1147,MARGARET,Murphy,Marketing,Content Strategist,PG3,12-05-17,,49292,Full-time ,
+EMP1336,Christine, Jackson ,Executive,VP of Sales,PG9,"September 28, 2025",,"$142,196",FT,christine.jackson@atech.org
+EMP1181,Katherine,Morales,Executive,VP of Marketing,pg9,2021-03-06,,"$151,001",part-time,katherine.morales@atech.org
+EMP1076,Michelle,Gomez,Information Technology,IT Support Specialist,PG4,05-14-22,,58144,Contract,michelle.gomez@atech.org
+EMP1198,jennifer,Nguyen,Operations,Warehouse Associate,PG2,17-Feb-2017,,36979,Full Time,jennifer.nguyen@atech.org
+EMP1219,David,Flores,Sales,Sales Manager,PG7,2026/06/30,,"$81,938",CONTRACT,"david.flores@atech,org"
+EMP1117,Samuel,Carter,Engineering,Electrical Engineer,PG6,"May 07, 2018",,90816,Full Time,samuel.carter@atech.org
+EMP1013,Kathleen,ramirez,Customer Service,Customer Service Rep,PG3,04-Oct-2023,,38697,PART-TIME,kathleen.ramirez@atech.org
+EMP1115,EMILY,Harris,Finance,Accountant,PG3,2015-05-09,2016-03-09,53737,Full-time ,emily.harris@atech.org
+EMP1468,Michael,Hill,Legal,Legal Counsel,PG8,10-27-25,,104015,Full-time ,michael.hill@atech.org
+EMP1001,SAMANTHA,ANDERSON,Human Resources,Benefits Specialist,PG4,2018/02/17,,57012,Contract,samantha.anderson@atech.org
+EMP1073,Linda,MITCHELL,Marketing,Marketing Coordinator,PG3,"January 09, 2017",,52562,FULL-TIME,linda.mitchell@atech.org
+EMP1213,Nicholas,Lee,Customer Service,Client Success Manager,PG7,2019/10/14,,78012,FULL-TIME,
+EMP1429,Steven,Peterson,finance,Financial Analyst,PG5,08-21-26,,57753,FULL-TIME,steven.peterson@atech.org
+EMP1454,Joseph,Lopez,Customer Service,Client Success Manager,PG7,2016/10/20,,98136,full-time,joseph.lopez@atech.org
+EMP1262,Susan,Kelly,Operations,Logistics Coordinator,PG3,05-02-17,"June 09, 2019",53510,Full Time,susan.kelly@atech.org
+EMP1279,Jennifer,BAILEY,Customer Service,Customer Service Rep,PG3,2023/12/05,,39110,Full Time,jennifer.bailey@atech.org
+EMP1152,Michael,Walker,Legal,Legal Assistant,PG2,2016-08-04,,34847.00,TEMPORARY,michael.walker@atech.org
+EMP1279,Jennifer,BAILEY,Customer Service,Customer Service Rep,PG3,2023/12/05,,39110,Full Time,jennifer.bailey@atech.org
+EMP1053,Pamela,Rivera,Executive,Chief Operating Officer,PG6,11/17/2023,,87913,Contract,pamela.rivera@atech.org
+EMP1023,Nicholas,Flores,Customer Service,Call Center Agent,PG2,11-08-17,05-23-25,38592,TEMPORARY,nicholas.flores@atech.org
+EMP1423, Joshua ,Turner,Operations,Operations Manager,PG7,12-12-15,,78435,Part Time,joshua.turner@atech.org
+EMP1011,Ashley,STEWART,Customer Service,Customer Support Lead,PG-5,09/01/2024,,59545,Contract,ashley.stewart@atech.org
+EMP1064,Barbara,Parker,Finance,Payroll Specialist,PG4,06-May-2016,,60210,Full-Time,barbara.parker@atech.org
