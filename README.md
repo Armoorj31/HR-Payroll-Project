@@ -3,7 +3,7 @@
 
 ![Dashboard Screenshot](screenshots/dashboard.png)
 
-**[View the interactive dashboard on Tableau Public →](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)**
+**[View the interactive dashboard on Tableau Public →](https://public.tableau.com/app/profile/renfred.armoo/vizzes)**
 
 ## Project Highlights
 
