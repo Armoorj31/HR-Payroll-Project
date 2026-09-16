@@ -106,13 +106,13 @@ incomplete year, and is annotated accordingly on the dashboard.
   verification step before `COMMIT` should be the default habit, not an
   afterthought — an early dedup mistake (deleting 15 rows instead of the
   intended 8) was a direct result of skipping this the first time.
-- Averages should never be stacked in a bar chart — an early version of the
+- Averages should never be stacked in a bar chart, an early version of the
   salary visualization stacked `AVG(Salary)` by pay grade, which produced
   bar totals with no real meaning. Caught by sanity-checking the chart
   against expected magnitude, not by trusting the visual at face value.
 - Choosing to leave the 21 missing pay grades as `NULL` rather than
   imputing them was a judgment call favoring data integrity over a
-  "complete-looking" chart — a distinction worth being explicit about
+  "complete-looking" chart; a distinction worth being explicit about
   rather than letting a viewer assume the dataset is fully populated.
 
 ## Repo Contents
