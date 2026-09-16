@@ -1,7 +1,7 @@
 # Workforce Insights: Salary, Attrition & Onboarding
 ### An HR Payroll Data Cleaning & Visualization Project by Renfred Joshua Armoo
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/dashboard1.png)
 
 **[View the interactive dashboard on Tableau Public →](https://public.tableau.com/app/profile/renfred.armoo/vizzes)**
 
